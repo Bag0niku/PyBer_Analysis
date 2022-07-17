@@ -21,18 +21,18 @@ The data includes:
 ![](/Analysis/Summary_table.png)
 ### Most of the ride-share activity is in urban cities and neighborhoods. 
 <p>
-<img src='Analysis/Total_Rides_by_City.png' width='300' height='300'>  
-<img src='Analysis/Total_Drivers_by_City.png' width='300' height='300'>  
-<img src='Analysis/Total_Fares_by_City.png' width='300' height='300'>  
+<img src='Analysis/Total_Rides_by_City.png' width='200' height='200'>  
+<img src='Analysis/Total_Drivers_by_City.png' width='200' height='200'>  
+<img src='Analysis/Total_Fares_by_City.png' width='200' height='200'>  
 </p>
 
 
 
 ### Summary of the Datapoints
 <p>
-<img src='Analysis/Driver_Count_Data_2019.png' width='300' height='600'>  
-<img src='Analysis/Ride_Count_Data_2019.png' width='300' height='600'>  
-<img src='Analysis/Ride_Fare_Data_2019.png' width='300' height='600'>  
+<img src='Analysis/Driver_Count_Data_2019.png' width='200' height='400'>  
+<img src='Analysis/Ride_Count_Data_2019.png' width='200' height='400'>  
+<img src='Analysis/Ride_Fare_Data_2019.png' width='200' height='400'>  
 </p>
 
 - The further away you get from the urban areas, the fewer riders and drivers, and a general increase in fares. 
