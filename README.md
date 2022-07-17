@@ -44,18 +44,20 @@ The data includes:
 
 #### Average Fare
 ![](/Analysis/Weekly_Fare_Average_by_City.png)
-  - The average fare in Urban areas, hovering around $25, seems stable when compared to that of rural areas.
+  - Urban area fare price is hovering around $25.
+  - The average fare in Urban areas seems stable when compared to that of rural areas.
   - Having more drivers available stablizes the fare price.
-  - Suburban area fares are less chaotic than rural fares. 
+  - Suburban area fares are less chaotic and more predictable than rural fares. 
 
 
 #### Total Weekly Rides
 ![](/Analysis/Weekly_Ride_Count_by_City.png)
+  - Based on the number of rides, the Urban area fare price seems to be the affordable price. 
 
 #### Total Weekly Fare
 ![](/Analysis/Weekly_Total_Fare_by_City.png)
   - These last two graphs look nearly identical.
-  - More money can be made if you have a lower average fare and get more rides.
+  - More money can be made if you have a lower average fare and increase your number of rides: Urban's $25 vs Rural's $33 to $38. 
 
 
 ## Ending Analysis
@@ -64,9 +66,9 @@ The data includes:
   - Urban areas: 
     - most of the revenue is here, who needs a car when you can ride-share.
   - Suburban areas: 
-    - mostly to increase access and spreading the word about the service.
+    - mostly to increase access and spreading the word about the service. I would like to see whether or not the affordable price for suburban areas is the same as urban areas.
   - Rural areas: 
-    - to stablize the price. 
+    - to stablize the price.  I suspect the affordability in rural areas may be a closer to $30.
 - Question in regards to the Suburban and Rural areas:
   - Why should you recruit more drivers in areas where there is little or no customer base? 
      - Answer: You will not have customers, if you do not have drivers; more drivers means more access to the service and higher chance of getting riders. 
