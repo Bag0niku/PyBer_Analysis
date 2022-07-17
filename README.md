@@ -59,11 +59,15 @@ The data includes:
 
 
 ## Ending Analysis
+- Having a stable and mostly predictable price will increase your repeat customer usage.
 - You need to recruit more drivers:
-  - Urban areas: most of the revenue is here, who needs a car when you can ride-share.
-  - Suburban areas: mostly to increase access and spreading the word about the service.
-  - Rural areas: to stablize the price.
--Question in regards to the Suburban and Rural areas:
+  - Urban areas: 
+    - most of the revenue is here, who needs a car when you can ride-share.
+  - Suburban areas: 
+    - mostly to increase access and spreading the word about the service.
+  - Rural areas: 
+    - to stablize the price. 
+- Question in regards to the Suburban and Rural areas:
   - Why should you recruit more drivers in areas where there is little or no customer base? 
      - Answer: You will not have customers, if you do not have drivers; more drivers means more access to the service and higher chance of getting riders. 
 
